@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320065345205",
+    "project_id": "contribuxapp-65f25",
+    "storage_bucket": "contribuxapp-65f25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320065345205:android:6ff1ae5aad2f23f54a50fc",
+        "android_client_info": {
+          "package_name": "com.contribuxapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDajO5XF7Q4RXd9lU27G5VO26pG9K4ggFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
